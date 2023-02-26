@@ -16,6 +16,10 @@ ctrl + D 選取文字統一修改
 
 !         新增一個 html 模板
 
+link:css  新增 css link 連結
+
+script:src 新增 script src 
+
 ctrl + /  註解
 
 tagName * n  新增 n 個 tag
